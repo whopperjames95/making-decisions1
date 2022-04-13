@@ -70,6 +70,12 @@ let rain = true;
 
 //CODE HERE
 
+
+
+
+
+
+
 ////////// PROBLEM 5 //////////
 
 /*
@@ -77,6 +83,11 @@ let rain = true;
 */
 
 //CODE HERE
+for (let i = 0; i < 10; i++){
+  console.log("hello");
+}
+
+
 
 ////////// PROBLEM 6 //////////
 
